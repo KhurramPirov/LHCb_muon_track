@@ -2,7 +2,7 @@
 
 ![Image alt](https://github.com/{KhurramPirov}/{LHCb_muon_track}/{master}/{LHCb.png)
 
-.. figure::::LHCb.png
+
 
 # LHCb
 
