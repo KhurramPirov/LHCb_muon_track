@@ -12,11 +12,9 @@
 * Installing dependencies: 
 `pip install -r <path_to_rep_requirements.txt>`.This is file with all necessary libraries.
 
-* 
-Data after undersampling is called `data_undersampled.hdf` is a processed data from LHCb.
+* Data after undersampling is called `data_undersampled.hdf` is a processed data from LHCb.
 
-* 
-Notebook with all learned models after undersampling is called `Final.ipynb` .
+* Notebook with all learned models after undersampling is called `Final.ipynb` .
 
 
 
