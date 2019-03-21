@@ -1,6 +1,6 @@
 # LHCb_muon_track
 
-![Image alt](https://github.com/{KhurramPirov}/{LHCb_muon_track}/raw/{master}/{LHCb.png)
+![Image alt](https://github.com/{KhurramPirov}/{LHCb_muon_track}/{master}/{LHCb.png)
 
 # LHCb
 
