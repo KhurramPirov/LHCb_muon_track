@@ -1,6 +1,6 @@
 # LHCb_muon_track
 
-![Image alt](relative/LHCb.png?raw=true "Title")
+![Screenshot](LHCb.png)
 
 
 
