@@ -1,6 +1,6 @@
 # LHCb_muon_track
 
-# Forensics_test
+# LHCb
 
 * __All data__ for checking perfomance of distinguishing muons from background is  [here](https://drive.google.com/open?id=1P3LOsP02JzD6rVx-1KZLhTG3eT5c44kW).
 
