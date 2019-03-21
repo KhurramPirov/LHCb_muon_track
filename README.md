@@ -16,7 +16,7 @@
 Data after undersampling is called `data_undersampled.hdf` is a processed data from LHCb.
 
 * 
-Notebook with all learned models after undersampling is called `ROC_AUC_plotting.ipynb` .
+Notebook with all learned models after undersampling is called `Final.ipynb` .
 
 
 
