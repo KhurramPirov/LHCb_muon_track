@@ -36,4 +36,4 @@
 
     `top20model.joblib`    - extracting top 20 features using Random Forest
 
-Data_processing&velocity|acceleration.ipynb   - processing data, calculated velocity and acceleration features and fit XGBoost, LightGBM and CatBoost on undersampled data with velocity and acceleration data. 
+*  `Velocity/acceleration.ipynb`   -calculates velocity and acceleration features and fit XGBoost, LightGBM and CatBoost on undersampled data with velocity and acceleration. 
