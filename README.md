@@ -30,7 +30,7 @@
 
     `XGB_top20+d.py`    -XGBoost on top 20 features with $d^2$-feature
 
-    `XGB_with_dsquare.py`   -XGBoost with $d^2$-feature
+    `XGB_with_dsquare.py`   -XGBoost with d-feature
 
     `ROC_AUC_plotting.ipynb`  - plotting roc_auc graphs
 
